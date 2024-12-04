@@ -1,4 +1,4 @@
-## [Lesson04](../readme.md) > Exercise04:
+## [Lesson03](../readme.md) > Exercise04:
 
 1. Open class [Main](../src/main/java/org/dii/oop/Main.java) in package `main.java.org.dii.oop` and edit the code to call run() method from `exercise04`.
 
