@@ -1,4 +1,4 @@
-## [Lesson04](../readme.md) > Exercise01:
+## [Lesson03](../readme.md) > Exercise01:
 
 1. Open class [Main](../src/main/java/org/dii/oop/Main.java) in package `main.javaorg.dii.oop` and edit the code as display below:
    ```
